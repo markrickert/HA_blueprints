@@ -48,7 +48,7 @@ MQTT is no longer required for frigate to work but it is required for the [integ
 
 If you run [multiple instances](https://docs.frigate.video/integrations/home-assistant#multiple-instance-support) of frigate you must configure a [Client ID](https://docs.frigate.video/configuration/) in order to distinguish between them. If you know what you are doing, enter the customised client id here. 
 
-## Telegram COnfiguration
+## Telegram Configuration
 
 ### Telegram Base URL
 
